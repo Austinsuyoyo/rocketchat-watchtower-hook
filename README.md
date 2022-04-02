@@ -34,3 +34,7 @@ If you rocket chat server host on `http` not `https`, add `?disableTLS=yes` in t
 6. Copy/Paste [wachtower-rocketchat.js](https://raw.githubusercontent.com/austinsuyoyo/rocketchat-watchtower-hook/master/wachtower-rocketchat.js) to rocketchat-gitea-hook/master/gitea-rocketchat.hooks.js) to Scripts Block in Rocket.Chat.
 7. Set "**Script Enabled**" Option to **True**
 8. Save the integration first, then you can copy "**Webhook URL**" replate <webhook_url>.
+
+
+# Demo
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/15572804/161377364-e73be846-84ba-40ad-ba49-6a813589e960.png">
